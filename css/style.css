@@ -123,21 +123,21 @@ img, video, audio {
 
 
 section {
-  padding: 20px; 
-  margin-bottom: 20px; 
+  padding: 20px;
+  margin-bottom: 20px;
 }
 
 #social {
-  position: fixed; 
+  position: fixed;
   top: 200px;
   right: 20px;
-  width: 40px; 
-  z-index: 1; 
+  width: 40px;
+  z-index: 1;
 }
 
 #social a {
-  display: block; 
-  width: 40px; 
-  height: 40px; 
+  display: block;
+  width: 40px;
+  height: 40px;
   background: yellow;
 }

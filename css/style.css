@@ -42,7 +42,7 @@ figcaption {
 /* ID selector (apply to one unique element per page) */
 
 #logo { /* select elements with id="logo" */
-  
+
 }
 
 /* Descendent Selector */
@@ -122,12 +122,12 @@ img, video, audio {
 }
 
 header {
-  position: fixed; 
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  background: white; 
-  z-index: 1; 
+  background: white;
+  z-index: 1;
 }
 
 section {
